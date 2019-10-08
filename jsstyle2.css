@@ -87,7 +87,8 @@ html, body {
     z-index: 3;
     max-width: 1000px;
     margin-left: auto;
-    margin-right: auto;   border-style: solid;
+    margin-right: auto;   
+    border-style: solid;
     border-width: 5px 0px 0px 0px;
     border-color: darkblue;
 }
